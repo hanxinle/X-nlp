@@ -1,5 +1,5 @@
-# nlp
-NLP相关知识\文献
+# NLP相关资料\工具
 
+### 工具1: hanlp
 
-![Flash](th.jpeg)
+[HanLP](https://github.com/hankcs/HanLP)的Python接口，支持自动下载与升级[HanLP](https://github.com/hankcs/HanLP)，兼容py2、py3。内部算法经过工业界和学术界考验，配套书籍[《自然语言处理入门》](http://nlp.hankcs.com/book.php)已经出版，欢迎查阅[随书代码](https://github.com/hankcs/pyhanlp/tree/master/tests/book)。
