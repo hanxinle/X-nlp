@@ -5,7 +5,7 @@
 [HanLP](https://github.com/hankcs/HanLP)的Python接口，支持自动下载与升级[HanLP](https://github.com/hankcs/HanLP)，兼容py2、py3。内部算法经过工业界和学术界考验，配套书籍[《自然语言处理入门》](http://nlp.hankcs.com/book.php)已经出版，欢迎查阅[随书代码](https://github.com/hankcs/pyhanlp/tree/master/tests/book)。
 
 ### 基本技术
-![](nlpSys.png)
+![](/image/nlpSys.png)
 
 字符 - 词 - 短语 - 句子 - 文档 ,一步步由零到整. hanlp配套书籍的概要:
 
