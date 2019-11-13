@@ -1,12 +1,47 @@
-# NLP相关资料\工具
+:# NLP相关资料\工具
 
-### 工具1: hanlp
+### NLP 所需要的技能
+
+* 词向量技术
+   
+   one-hot,词袋,word2vec,fasttext,glove,elmo....,它是当前NLP任务开战的重要步骤,直接影响后续操作的结果.
+
+* 序列问题
+
+    分词,词性标注,命名实体识别,依存句法分析
+    
+* 机器学习算法
+
+    逻辑回归,SVM,决策树,boost,K-means,crf,朴素贝叶斯
+    
+* 深度学习算法
+
+    CNN,RNN,LSTM,attention,transformer,gpt,bert等.
+    
+* 其它技术
+
+    基于机器学习的预处理,ML技术与NLP的交叉,如基于深度学习的端到端,关键提取.
+    
+* 知识图谱
+
+
+
+### 工具1:以tensorflow为主的工具链
+
+ 
+
+
+
+
+
+
+### 工具2: hanlp
 
 [HanLP](https://github.com/hankcs/HanLP)使用Java开发完成,安装后提供Python接口，兼容py22、py3。配套书籍[《自然语言处理入门》](http://nlp.hankcs.com/book.php),[随书代码](https://github.com/hankcs/pyhanlp/tree/master/tests/book).作者自我评价:内部算法经过工业界和学术界考验,欢迎查阅。
 
-### 基本技术
+### hanlp书籍内容
 
-字符 - 词 - 短语 - 句子 - 文档 ,一步步由零到整. hanlp配套书籍的概要:
+hanlp配套书籍的概要: 按照"字符 - 词 - 短语 - 句子 - 文档" ,一步步由零到整讲解NLP相关概念及所用到的算法类别:
 
 * 分词
   * 切分算法
