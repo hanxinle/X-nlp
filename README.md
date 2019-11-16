@@ -35,7 +35,7 @@
 
 ### hanlp书籍内容
   
-我在[这里](https://github.com/hanxinle/nlp/blob/master/nlp_start.md)对该书内容进行了总结.在模型评估中,涉及到混淆矩阵和以下3个指标.
+[这是](https://github.com/hanxinle/nlp/blob/master/nlp_start.md)对该<自然语言处理入门>全书的总结.在模型评估中,涉及到混淆矩阵和以下3个指标.
  
  
 在[机器学习实践](https://github.com/hanxinle/practical_machine_learning)中，提到模型评估的工具——混淆矩阵，实际上，由混淆矩阵能够得到以下几个模型评估的标准，分别是精确了率P、召回率R，F1 = 2*P*R /R+P，F1只有R、P都很高的时候才会很高。而每个数值都可以由混淆矩阵每个元素的值来计算得到。原来只关心准确率，即对角线元素数量处理元素总数，这是不严谨的。
