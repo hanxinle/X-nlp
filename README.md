@@ -26,12 +26,13 @@
 
 
 
-### 工具1:以tensorflow为主的工具链
-
-
+### 工具1:spacy,nltk，tensorflow
+   
+   前二者时最流行的两个NLP通用工具，当需要使用深度学习技术执行相关NLP任务时，我选择tensorflow.
+   
 ### 工具2: hanlp
 
-[HanLP](https://github.com/hankcs/HanLP)使用Java开发完成,安装后提供Python接口，兼容py22、py3。配套书籍[《自然语言处理入门》](http://nlp.hankcs.com/book.php),[随书代码](https://github.com/hankcs/pyhanlp/tree/master/tests/book).作者自我评价:内部算法经过工业界和学术界考验,欢迎查阅。
+[HanLP](https://github.com/hankcs/HanLP)使用Java开发完成,安装后提供Python接口，兼容py22、py3。配套书籍[《自然语言处理入门》](http://nlp.hankcs.com/book.php)，[随书代码](https://github.com/hankcs/pyhanlp/tree/master/tests/book).作者自我评价:内部算法经过工业界和学术界考验,欢迎查阅。
 
 ### hanlp书籍内容
   
