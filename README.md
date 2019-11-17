@@ -37,9 +37,9 @@
 
 他们是当前较流行的两个NLP通用工具。
 
-* tensorflow 
+* TensorFlow 
 
-当NLP需要用到深度学习技术时，tensorflow作为首选（个人选择）。
+需要应用深度神经网络时，TensorFlow作为首选（个人选择），深度学习算法是当前NLP技术的重要组成部分。
 
 * [HanLP](https://github.com/hankcs/HanLP)
 
