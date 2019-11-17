@@ -33,7 +33,17 @@
 
 ### NLP 技术涉及的工具
 
-spacy、nltk是当前较流行的两个NLP通用工具，当需要使用深度学习技术执行相关NLP任务时，我选择tensorflow。PS：[HanLP](https://github.com/hankcs/HanLP)是[《自然语言处理入门》](http://nlp.hankcs.com/book.php)作者的开源框架，它使用Java开发完成,安装后提供Python接口，兼容py22、py3。[随书代码](https://github.com/hankcs/pyhanlp/tree/master/tests/book)。
+* spacy、nltk
+
+他们是当前较流行的两个NLP通用工具。
+
+* tensorflow 
+
+当NLP需要用到深度学习技术时，tensorflow作为首选（个人选择）。
+
+* [HanLP](https://github.com/hankcs/HanLP)
+
+它是[《自然语言处理入门》](http://nlp.hankcs.com/book.php)作者的开源框架，它使用Java开发,Python接口兼容Python2、Python3，点击查看[随书代码](https://github.com/hankcs/pyhanlp/tree/master/tests/book)。
 
 
 
