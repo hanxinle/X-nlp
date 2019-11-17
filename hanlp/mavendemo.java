@@ -1,3 +1,5 @@
+//mavendemo演示了如何利用maven配置hanlp包，还有另一种方法
+
 package mavendemo;
 import com.hankcs.hanlp.HanLP;
 
