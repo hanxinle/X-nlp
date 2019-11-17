@@ -33,9 +33,9 @@
 
 ### NLP 技术涉及的工具
 
-* spacy、nltk
+* Spacy、NLTK
 
-他们是当前较流行的两个NLP通用工具。
+它们是当前较流行的两个NLP通用工具。
 
 * TensorFlow 
 
