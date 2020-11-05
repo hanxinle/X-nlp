@@ -4,4 +4,4 @@
 
 [这个课程](http://campus.swarma.org/play/coursedetail?id=10296)的目录部分，将对话机器人的类别按功能组织，可作为参考。
 
-这里的两个chatbot是在能够运行起来的，一些教程、博客、GitHub中暂时不能运行的一般达不到一定的限度，不会被放进我的GitHub中国。
+这里的两个chatbot是在能够运行起来的，一些教程、博客、GitHub中暂时不能运行的一般达不到一定的限度，不会被放进我的GitHub中。
