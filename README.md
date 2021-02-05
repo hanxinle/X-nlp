@@ -1,28 +1,28 @@
 # NLP 相关资料\工具
 
-### [NLP 概述](hanlp/README.md)
+### [NLP 概述](./doc/hanlp_setting/nlp_doc.md)
 
 概述内容是对<自然语言处理入门>总结，该书将NLP涉及的概念、操作进行了阐述，形成了自己的一套方法论。而对“NLP是什么”这个过于宽泛的问题，不同的研究者、从业人员有不同的理解，这里不去追求概念上的“正统”，而是乐于看到各种思想、应用百花齐放，吾等皆各取所长。
 
 ### NLP所用工具
 
-* [Spacy、NLTK](Spacy_NLTK/README.md)
+* [Spacy & NLTK](./src/spacy_nltk/README.md)
 
-它们是当前较流行的两个NLP通用工具，链接给出了 Udemy 的教程的课件，如果看过《 NLP 概述》链接给出的文章，那么理解这些NLP基本技术通过看 jupyter notebook 课件即可。
+它们是当前较流行的两个NLP通用工具，先看《 NLP 概述》链接给出的总结，再看 jupyter notebook 中的示例。
 
 * [HanLP](https://github.com/hankcs/HanLP)
 
 它是[《自然语言处理入门》](http://nlp.hankcs.com/book.php)作者的开源框架，它使用 Java 开发,Python 接口兼容 Python2、Python3，点击查看[随书代码](https://github.com/hankcs/pyhanlp/tree/master/tests/book)。
 
 
-* [chatbot](chatbot_/README.md)
+* [项目：对话机器人](https://github.com/hanxinle/chatbot)
 
-对话机器人是NLP技术极其有代表性的落地项目，受限于 GPU 型号，我不能训练一些想要探索的网络，这里根据 Udemy 课程建立的机器人都是在 GPU 为 GTX1060 情况下可以进行模型训练的，并且利用上文提到的工具，能够做到依靠keras、TensorFlow 构建和运行对话机器人。
+对话机器人是NLP技术极其有代表性的落地项目，受限于 GPU 算力，我不能探索更复杂的网络，该对话机器人程序使用 keras、TensorFlow 构建。
 
-我给出了李嫣然博士的[课程链接](https://ke.qq.com/course/408856#term_id=100487486)，该课程是关于对话机器人技术的很好的科普、深化。
+推荐李嫣然博士的[课程](https://ke.qq.com/course/408856#term_id=100487486)，该课程是对聊天机器人/对话机器人概念及使用技术的科普、梳理。
 
 
-### NLP内容（学习建议）
+### NLP 技术关键字
 
 * 词向量技术
 
