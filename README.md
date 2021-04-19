@@ -15,7 +15,7 @@
 这是[《自然语言处理入门》](http://nlp.hankcs.com/book.php)作者的开源框架，它用 Java 开发,提供的 Python 接口兼容 Python2、Python3，点击查看[随书代码](https://github.com/hankcs/pyhanlp/tree/master/tests/book)。
 
 
-* [项目：对话机器人](https://github.com/hanxinle/chatbot)
+* [项目：对话机器人](https://github.com/hanxinle/XChatbot)
 
 对话机器人是NLP技术极其有代表性的落地项目，受限于 GPU 算力，我不能探索更复杂的网络，该对话机器人程序使用 keras、TensorFlow 构建。
 
